@@ -1,0 +1,15 @@
+.wrap-menu{
+    background: var(--bg-secondary);
+    width: 80px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    box-shadow: var(--color-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+    z-index: 999;
+    /* left: 0 ; */
+}
+
